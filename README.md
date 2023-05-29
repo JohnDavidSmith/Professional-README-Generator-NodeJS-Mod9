@@ -59,65 +59,51 @@ Here are some guidelines to help you get started:
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
-## Grading Requirements
+## Description 
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+* The main goal of this project is to have a high-quality README file for the app.
+* By using this project you can quickly and easily create a README file by using a command-line application to generate one.
+* This allows the project creator to devote more time to working on the project.
 
-This Challenge is graded based on the following criteria: 
+## Contents 
 
-### Deliverables: 20%
+* This professional README file generator project content `package.json` with the required dependencies and a `.gitignore` file and include `node_modules/` and `.DS_Store/`.
 
-* A sample README generated using the application must be submitted.
+## Installation 
 
-* Your GitHub repository containing your application code.
+* Doesn't need any instillation just type node index.js in the command line then answer the questions which will appear in order to make a professional README file to your project.
+  
+## Usage 
 
-### Walkthrough Video: 27%
+* This application can be used by anyone wants to make a professional README file to their project.       
 
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
+## Screenshot
 
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
+![Screenshot of the Professional README File Generator](./Develop/Screenshot%20README%20File%20Generator.png)
 
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
+## GitHub link to the Professional README File Generator Application.
 
-* The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
+[The Professional README File Generator Application](https://github.com/JohnDavidSmith/Professional-README-Generator-NodeJS-Mod9)
 
-### Technical Acceptance Criteria: 40%
+## Video link to demonstrate how this application working and how the final product will be look like 
 
-* Satisfies all of the above acceptance criteria plus the following:
+[The Video link for Professional README File Generator Application](https://drive.google.com/file/d/1fOIRZT3VjulKQ0dKFdkxKm0s4bOnpqMn/view)
 
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
+## Credits
+* 
 
-### Repository Quality: 13%
+## License
+* 
 
-* Repository has a unique name.
+## Badges
+* 
 
-* Repository follows best practices for file structure and naming conventions.
+## Features
+* 
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+## How to Contribute
+* 
 
-* Repository contains multiple descriptive commit messages.
+## Test
+*
 
-* Repository contains a high-quality README with description and a link to walkthrough video.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

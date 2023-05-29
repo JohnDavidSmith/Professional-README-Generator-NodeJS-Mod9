@@ -1,9 +1,9 @@
-# README file - Node.js
+# README File Generator - NodeJS
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
   
-  To have a high-quality README file for the app.
+  To have a high-quality RAEDME File for the app.
   
   ## Table of Contents
   
@@ -16,7 +16,7 @@
   
   ## Installation
   
-  no
+  No
   
   ## Usage
   
